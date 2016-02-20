@@ -13,7 +13,8 @@ SEWD Grid: sending email
 
 
 [Click me bebe](http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm) from the Bureau of Labor Statistics.
-+![Alt Text] (www.http://www.emarketingeye.com/senior-software-engineer-software-engineer-job-code-eme0018.html.gif) 
+
++![Alt Text](http://media.mediatemple.netdna-cdn.com/wp-content/uploads/2012/05/mobile-first.jpg)
 
 
 (to be updated)
