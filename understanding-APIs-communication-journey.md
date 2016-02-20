@@ -13,7 +13,7 @@ SEWD Grid: sending email
 
 
 [data](http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm) from the Bureau of Labor Statistics.
-![Alt Text] (www.http://www.emarketingeye.com/senior-software-engineer-software-engineer-job-code-eme0018.html.gif) 
+[Alt Text] (www.http://www.emarketingeye.com/senior-software-engineer-software-engineer-job-code-eme0018.html.gif) 
 
 
 (to be updated)
