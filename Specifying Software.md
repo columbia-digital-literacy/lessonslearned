@@ -1,8 +1,8 @@
-We have to consider following factors to specify what software to use.
-Specific OS
-Features
-Wire frames
-Comp’s
++ We have to consider following factors to specify what software to use.
++ Specific OS
++ Features
++ Wire frames
++ Comp’s
 User stories
 User walk through
 Data model
