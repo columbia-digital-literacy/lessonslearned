@@ -16,5 +16,5 @@ When explaining these things to developers, we have to be short and clear.
 We have to be able to explain these on one small paper or post-it.
 
 If you want to see example, [click here](http://www.capterra.com/connect)
-
+![Alt Text](http://trondwingard.com/wp-content/uploads/2010/03/agilemanifesto.jpg)
 
