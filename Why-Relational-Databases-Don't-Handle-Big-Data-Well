@@ -1,4 +1,3 @@
 +I was not sure why people talked so much about big data and what is so big deal about it. I thought if your data doubles, why not put twice as many chips to handle it. 
 +It was my aha moment when you mentioned that it takes far more magnitude of computation power to handle data when data gets bigger because there are rows and columns of data and computer needs to iterate through them every time user request specific type of information they want. 
 +I was also very impressed how engineers came up with brilliant ideas, such as big table, to handle big data.
-<img src="https://camo.githubusercontent.com/01d048979030120d2e0f1ee8b21c91c62d11c676/687474703a2f2f6d656469612e6d6564696174656d706c652e6e6574646e612d63646e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031322f30352f6d6f62696c652d66697273742e6a7067" alt="Alt Text" data-canonical-src="http://media.mediatemple.netdna-cdn.com/wp-content/uploads/2012/05/mobile-first.jpg" style="max-width:100%;">
