@@ -11,14 +11,14 @@ We have to consider following factors to specify what software to use.
 + Discussions with developers
 
 Especially for User stories, we have to identify three things.
-+
+
 As a role, feature we want, so that benefit.
-+
+
 When explaining these things to developers, we have to be short and clear.
-+
+
 We have to be able to explain these on one small paper or post-it.
 
 If you want to see example, [click here](http://www.capterra.com/connect)
-+
+
 ![Alt Text](http://trondwingard.com/wp-content/uploads/2010/03/agilemanifesto.jpg)
 
