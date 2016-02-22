@@ -1,6 +1,54 @@
 # Understanding APIs communication journey
-+ API is the way for computer and computer communication
-
++ 
++ Application Programming Interfaces(APIs) are ways for two different pieces of software to talk to each other.
++ In other words, APIs are the way for communication between a computer and a computer.
++ For example, if you have a online webpage that sells 
+For
+example,
+if
+you
+build
+a
+mobile
+app
+that
+shows
+local
+restaurants,
+you'll
+probably
+create
+some
+server
+side
+software
+which
+will
+provide
+an
+API
+to
+your
+mobile
+app
+allowing
+the
+app
+to
+provide
+a
+location
+and
+for
+the
+server
+to
+return
+a
+list
+of
+local
+restaurants.
 JSON to transfer info b/w SWs: transfer info. Store data (customer data)
 
 Stripe / : credit card API
