@@ -17,4 +17,4 @@ We have to be able to explain these on one small paper or post-it.
 
 If you want to see example, [click here](http://www.capterra.com/connect)
 
-![Alt Text](file:///C:/Users/willys/AppData/Local/Temp/WindowsLiveWriter-429641856/supfiles19CDCA/image17.png)
+
