@@ -16,3 +16,5 @@ When explaining these things to developers, we have to be short and clear.
 We have to be able to explain these on one small paper or post-it.
 
 If you want to see example, [click here](http://www.capterra.com/connect)
+
+![Alt Text](http://blog.scrumup.com/2011/06/agile-spirit.html)
