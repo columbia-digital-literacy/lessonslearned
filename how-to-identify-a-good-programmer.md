@@ -16,7 +16,4 @@ Belows are some of characteristics that you could look for when you identify a g
 + Realistic person who can gauge the underlying nature of problems
 + Jack of all trades: Keep abreast of new developments
 
-![Alt Text](http://media.mediatemple.netdna-cdn.com/wp-content/uploads/2012/05/mobile-first.jpg)
-
-
-(to be updated)
+![Alt Text](http://image.slidesharecdn.com/2010-03-28becomingabetterprogrammer-110418025151-phpapp02/95/becoming-a-better-programmer-37-728.jpg?cb=1393180568)
