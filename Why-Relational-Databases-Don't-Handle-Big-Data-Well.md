@@ -1,25 +1,9 @@
-We have to consider following factors to specify what software to use.
-+ Specific OS
-+ Features
-+ Wire frames
-+ Comp’s
-+ User stories
-+ User walk through
-+ Data model
-+ Non-functional specs
-+ Business goals
-+ Discussions with developers
+# Big Data
 
-Especially for User stories, we have to identify three things.
++I was not sure why people talked so much about big data and what is so big deal about it. I thought that if the amount of data doubles, we could handle the data with twice as many chips. 
++But it’s not the amount of data that’s important. It is how data is structured. Over time data got increasingly unstructured and traditional relational databases were not designed to handle these kinds. Relational databases required cost prohibitive computing power so people were not able to use big data efficiently.
++So engineers came up with brilliant ideas to handle big data. They are Document Based Store, Key Value Store, Wide Column Stre and Graph Store
 
-As a role, feature we want, so that benefit.
+If you want to learn more about Big Data, [Clickhere] (https://en.wikipedia.org/wiki/Big_data) 
 
-When explaining these things to developers, we have to be short and clear.
-
-We have to be able to explain these on one small paper or post-it.
-
-If you want to see example, [click here](http://www.capterra.com/connect)
-
-![Alt Text](http://trondwingard.com/wp-content/uploads/2010/03/agilemanifesto.jpg)
-
-l
+![Alt Text](http://image.slidesharecdn.com/redispresentation-140514044823-phpapp02/95/redis-nosql-keyvalue-database-4-638.jpg?cb=1400048141)
