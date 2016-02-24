@@ -4,7 +4,8 @@ The Agile Manifesto
 ![Alt Text](https://rafvb.files.wordpress.com/2012/10/manifestowallpaper1024.jpg)
 
 Flexibility
- . In a fast changing environment, requirements change frequently. Or worse, requirements are unclear at the beginning. 
+ . In a fast changing environment, requirements change frequently.
+ . Or worse, requirements are unclear at the beginning. 
  . Waterfall method is too rigid to incorporate changes in a timely fashion
  . Agile, with its small incremental releases, offer flexibility to meet changing needs.
  
