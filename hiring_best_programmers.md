@@ -5,3 +5,4 @@
 + Some of these interests might be related to career advancement, immediate and long term financial interests, and quality of projects.
 + Some programmers might be world class in skills, but may not be a good fit to the firm.
 + Programmers need to be guaranteed a certain amount of independence and voice in the technical calls to me made in order for them to be committed to the firm.
++ 
