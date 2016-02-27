@@ -1,5 +1,8 @@
-Below, I have described a number of ways that 'business-people' can try to source software developers to work on their projects.
+Below, I have described a number of ways that 'business-people' can try to source software developers to work on their projects. Before attempting any of the following strategies, a business person should also:
+  * Be sure that they are ready to pitch their project in a passionate way so that the developers get excited about the prospect of working together
+  * Do some work to ensure that you have at least modestly technically literate (perhaps by taking a class with Peter Bell)
 
+<u>Strategies</u>
 1. Ask other developers 
   * This is probably the best approach
   * They will hopefully have an understanding of who is involved in the developer community, presents at meetups, etc.
