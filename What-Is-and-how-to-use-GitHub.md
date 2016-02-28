@@ -36,4 +36,4 @@
 [Click link](http://www.stat.cmu.edu/~nicolask/githubinstructions.html) Some tutorials for GitHub
 
 
-+![Alt Text](https://www.packtpub.com/sites/default/files/Article-Images/9479_08_01.png) 
++![Alt Text](https://www.linode.com/docs/assets/git-github-workflow-1000w.png) 
