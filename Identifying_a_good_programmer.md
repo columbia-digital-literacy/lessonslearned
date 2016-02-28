@@ -5,3 +5,4 @@
 + My start-up successfully figured out the CTO who has more or less 20 years experiences in Microsoft.
 + Comparing with pairs and simple test are quite efficient to identify a good programmer.
 + Learning about basic all kinds of Coding langauaes are so useful.
+[Click](http://cafe.naver.com/mcbugi) The Forum for IOS Developers.
