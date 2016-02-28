@@ -10,6 +10,12 @@ is quite high, being able to provide these intrinsic benefits is key to retainin
 work will help provide this greater sense of purpose, as they become an integral part of the team and of the business, as opposed to simply 
 a means to an end for a project.
 
+A good example of this in practice is Google's 20% program, which allows employees to take 20% of their work time for side projects, which encourages innovation and provides a great deal of autonomy, helping to reduce employee turnover.
+
+Other things employers can do in this regard is increase flexibility of their employees such as allowing them to work from home a certain percentage of the time, and providing unlimited vaction days.
+
+In addition, companies can provide opportunities for their developers to rise through the ranks and take on more responsibility as the company grows.
+
 You can learn more about intrinsic motivation from Daniel Pink's "Drive"
 http://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805
 ![Image of Book]
