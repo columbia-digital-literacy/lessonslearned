@@ -1,4 +1,3 @@
-#How to think through your mobile app build options
 *"All apps are not made equal"*
 
 An important thing to keep in mind when leading or managing a digital project is which sort of mobile app approach would work best for your team. 
