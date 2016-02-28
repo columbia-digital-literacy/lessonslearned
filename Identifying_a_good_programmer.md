@@ -1,4 +1,4 @@
-+ How to look for good programmers and identify a right developer
+### How to look for good programmers and identify a right developer
 + In the beginning of start-up, looking for a good pragrammer is demanding.
 + I had an experience of asking friends, who have computor science backgrouds but it was not so successful.
 + The professor told us that going to Meet-Up events or looking for a developer's forum is valuable.
