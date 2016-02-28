@@ -36,4 +36,6 @@
 [Click link](http://www.stat.cmu.edu/~nicolask/githubinstructions.html) Some tutorials for GitHub
 
 
-+![Alt Text](https://www.linode.com/docs/assets/git-github-workflow-1000w.png) 
+![Alt Text](https://www.linode.com/docs/assets/git-github-workflow-1000w.png) 
+
+![Alt Text](https://docs.rhodecode.com/RhodeCode-Enterprise/_images/fork-flow.png)
