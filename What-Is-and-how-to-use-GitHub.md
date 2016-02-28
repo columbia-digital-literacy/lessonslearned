@@ -1,7 +1,6 @@
 ###What is GitHub and How we can use it?             
 + GitHub is a website where you can upload a copy of your Git repository. It allows you to collaborate much more easily with other people on a project. 
-
-+ Why people use GitHub ? 
+##Why people use GitHub ? 
 + Document requirements/ Collaborate on independent streams of history/ Review work in progress/ See team progress
 + In the class,
 + We learned how and why people use GitHub to collaborate.
