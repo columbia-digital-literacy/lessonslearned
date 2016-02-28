@@ -10,6 +10,7 @@ First of all it is more flexible and can respond to changes much quicker. Small 
 Another benefit of incremental software development is that you have a series of mini milestones in each iteration, which can improve team morale and create good momentum as each milestone is reached.
 Another big advantage of using the incremental software development approach is that developers can show you part of the software at the time. 
 Seeing and testing the software along the way (working software) is both cost and time efficient and will be much easier when developing something incrementally. 
+Test-driven development can also be a key part of incremental software development - the two can be integrated.
 
 [Example of incremental software development model](http://testingfreak.com/wp-content/uploads/2015/02/incremental.png "Incremental Model")
 
