@@ -5,3 +5,10 @@ Coming from a consulting background, I used to work with several technology deve
 In addition, it is extremely interesting to learn how programmers collaborate on open source codes. It is through agile software development that great programs are built and improved continuously. Software development is becoming more and more a team effort, and hiring engineers with strong communication skills and teamwork mentality is key. Technical skills aside, being able to explain vision and work process in plain English, and creating codes and documentation that are easy to track are essential success factors of engineers.
 
 Finally, getting on GitHub and experiencing how programmers communicate and cooperate is my biggest highlight of the course! I look forward to continuing using GitHub.
+
+Below are program popularity rankings on GibHub in 2015 for your reference:
+
+[The RedMonk Programming Language Rankings: January 2015](http://redmonk.com/sogrady/2015/01/14/language-rankings-1-15/ "The RedMonk Programming Language Rankings: January 2015")
+
+Program popularity rankings 
+![alt text](http://sogrady-media.redmonk.com/sogrady/files/2015/01/lang.rank_.plot_.q1152.png "Program popularity rankings on GitHub")
