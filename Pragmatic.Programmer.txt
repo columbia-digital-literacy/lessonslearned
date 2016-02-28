@@ -14,5 +14,6 @@ DRY = Don't Repeat Yourself
 Keys to Managing Software Development
 No broken window
 Knowledge in plain text
+Test your software for bugs frequently and once you identify one create tests to check them in the future
 Monolinarity
 Find ways to inspire/engage your team members - knowledge workers are incentivized not just through monetary compensation
