@@ -19,4 +19,4 @@
 * Monolinarity
 * Find ways to inspire/engage your team members - knowledge workers are incentivized not just through monetary compensation
 
-![Pragmatic Programmer](/Prag.Programmer.jpg)
+![Pragmatic Programmer](/prag_prog.jpg)
