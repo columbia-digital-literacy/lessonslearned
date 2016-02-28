@@ -16,6 +16,7 @@
 ## Keys to Managing Software Development:
 * No broken window
 * Knowledge in plain text
+* Reversibility -- it is critical to plan ahead with contingencies, and to think of critical decisions as being written in the sand instead of carved in stone
 * Test your software for bugs frequently and once you identify one create automatic tests to check for them in the future. 
 * Monolinarity
 * Find ways to inspire/engage your team members - knowledge workers are incentivized not just through monetary compensation
