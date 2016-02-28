@@ -8,3 +8,7 @@ Incremental software development solves many of the issues you can encounter wit
 First of all it is more flexible and can respond to changes much quicker. Small changes are added quickly and costly mistakes can be avoided. 
 Another big advantage of using the incremental software development approach is that developers can show you part of the software at the time. 
 Seeing and testing the software along the way (working software) is both cost and time efficient and will be much easier when developing something incrementally. 
+
+[Example of incremental software development model](http://testingfreak.com/wp-content/uploads/2015/02/incremental.png "Incremental Model")
+
+![alt text](http://testingfreak.com/wp-content/uploads/2015/02/incremental.png) 
