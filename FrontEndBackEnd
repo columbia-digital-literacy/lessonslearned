@@ -1,0 +1,16 @@
+Front end vs Back End languages
+
+Front end and Back end are the two main kinds of web development aspects. When looking for web developers, managers generally seek different people to accomplish front end and back end development.  While full-stack, which is a combination of front end and back end, is sometimes required, the two languages develop two different ends of the same software. 
+
+Front End Development:
+The front end of an application is its user-facing interface. A good user experience can retain consumers for a long time, and a bad one can cause the collapse of a digital business. To develop a front end interface, a techie is required to know the following languages:
+1.	HTML: Is the most basic front end languages, all codes are eventually translated into HTML
+2.	CSS or Cascading Style Sheets: Is an advanced language that allows the developer to add much more to the design and style of the website. 
+3.	JavaScript: is not only a front end language. JavaScript runs on the user’s computer and therefore can be used to modify the user’s experience by fast programing on the client’s machine. 
+
+Back End Development: 
+The back end of a web application is the enabler: the actual nuts and bolts of the whole application. Back end is the code that is required to make the application work, by designing and controlling things like performance, calculations etc. If the back end collapses, the application stops running or starts throwing errors at the user. The Front end language you choose depends on your development team and their capacities. 
+1.	Ruby: a fun and easy programming language, which is very readable. Companies like Twitter, Hulu etc use Ruby.
+2.	Python: is also known for being easy and readable. 
+3.	SQL: is universal database query languages. SQL can be used to interact with other back end servers. 
+
