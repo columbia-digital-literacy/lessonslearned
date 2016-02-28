@@ -51,7 +51,7 @@
 <li>Offer schedule of increasing compensation, bonuses, benefits, and non-financial incentives</li>
 <li>Encourage employee to develop a sense of ownership by engaging the employee as a problem-solver and challenge his/her technical skills</li>
 <li>Implement systems for regular feedback, professional growth plans and 1:1 meetings</li>
-<p>For more information about motivating employees, feel free to turn to “Drive” by Daniel Pink and “The Carrot Principle” by Gostick.</p>
+<p>For more information about motivating employees, feel free to turn to <a href="http://www.danpink.com/drive/">“Drive” by Daniel Pink</a> and <a href="http://www.carrots.com/resources/books">“The Carrot Principle” by Adrian Gostick and Chester Elton</a>.</p>
 </body>
 </html>
 
