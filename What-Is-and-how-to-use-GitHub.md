@@ -1,3 +1,8 @@
+![Alt Text](https://kanbanize.com/blog/wp-content/uploads/2014/11/GitHub.jpg)
+
+
+
+
 ###What is GitHub and How we can use it?             
 + GitHub is a website where you can upload a copy of your Git repository. It allows you to collaborate much more easily with other people on a project. 
 
