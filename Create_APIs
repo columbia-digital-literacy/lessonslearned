@@ -1,0 +1,9 @@
+One of the most useful takeaways from this class was learning about APIs.
+
+API stands for application program interface and is a set of routines, protocols, and tools for building software applications.  The API specifies how software components should interact and APIs are used when programming graphical user interface (GUI) components.  Professor Bell said that APIs are important to understand, because they are increasingly being used in business.
+
+One example that we covered in class is the Price Comparison API.  If we take Walmart for example, the way the price comparison API would work is that it would transit product information so it could search against other competitor websites.  The information that would be transmitted back are the websites with those products and the associated prices.  This way, Walmart would be able to display prices for competitors on their webpage and demonstrate their everyday low price strategy.
+
+Another example that we discussed in class is the Shipping and Order Tracking API.  It is triggered on purchase.  Walmart transmits purchase data to shippers such as Fedex or UPS and then they send back the shipping information.
+
+These are just some examples of how APIs can be extremely useful.

@@ -1,0 +1,9 @@
+My biggest takeaway from the Digital Literacy class was some of the questions to ask a developer you were considering hiring.
+
+Besides asking them if they had done a similar project before or if they had experience in the particular technology, I learned the value of evaluating them on how they communicated with a non-technical person. One of the criteria discussed in class that I found particularly helpful was to evaluate if they could explain technical jargon and process to a non-technical person, as though they were talking to a friend or family member. 
+
+I learned to ask a potential developer hire the 3 following questions: 1) which tool they used for a particular technology function (e.g. issue tracking, unit testing, version tracking and source code repository etc.), 2) why they picked that tool and 3) which other tools they evaluated in order to come to their decision. I found this framework particularly helpful because it evaluates a developer's critical thinking skills and their decision-making approach, which are both instrumental skills once they join a team or company. If they did not know why they had picked a tool or had not compared it to any other tools in the market, I would definitely not hire them based on that alone. If they had picked something out of the ordinary, I would be more inclined to listen to their logic behind doing so and understand the trade-offs they had made in their decision.
+
+Since we are all likely to hire software engineers in the future, learning about how to evaluate them and pick the right person for the job a key takeaway from this class. In the future, I hope to put these skills, especially the three questions outlined above, in the hiring decisions I make for my technology team. 
+
+Test insert link: https://www8.gsb.columbia.edu/
