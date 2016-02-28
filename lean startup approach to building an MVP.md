@@ -14,5 +14,7 @@ some ways to test the idea first:
 5. Kickstarter campagin/video - creat an explianer video to generate interest and raise capital to begin the work 
 
 You can learn more about this from the bbok "The Lean Start Up by Eric Ries": http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898
+
+
 ![Image of Book]
 (http://ecx.images-amazon.com/images/I/51vN15YCJyL._SX329_BO1,204,203,200_.jpg)
