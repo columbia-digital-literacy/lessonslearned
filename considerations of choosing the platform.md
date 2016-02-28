@@ -1,0 +1,3 @@
+Choosing between a website, optimized website, or a native app is required to look at more a business perspective rather than going into the technical capabilities of what each platform has to offer. 
+The main reason is that the same set of customers that access your business through a desktop could potentially connect with your brand on the go through their smartphones. 
+ Given the priority that the company needs to get the business-flow positive, the decision of whether they should build website, mobile optimized website, apps depend on how much they can spend on building the related platform.
