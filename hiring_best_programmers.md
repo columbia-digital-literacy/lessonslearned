@@ -5,4 +5,7 @@
 + Some of these interests might be related to career advancement, immediate and long term financial interests, and quality of projects.
 + Some programmers might be world class in skills, but may not be a good fit to the firm.
 + Programmers need to be guaranteed a certain amount of independence and voice in the technical calls to me made in order for them to be committed to the firm.
-+ 
+
+[link](http://www.techrepublic.com/blog/10-things/10-traits-to-look-for-when-youre-hiring-a-programmer/)
+
+![Alt Text](http://1.bp.blogspot.com/-Tok9UvVEZ0Q/VXmzR2QiaoI/AAAAAAAAJSs/kdEoXd_inak/s1600/top-10-programming-languages.png)
