@@ -1,6 +1,6 @@
 #User Stories 
 My biggest takeaway from the class was about using user stories in the spec writing process. 
-I thought this was particularly helpful as it allows the software development process to remain relevant and targeted in terms of working on developing the most important user stories, but also allows clear communication with the engineers. 
+I thought this was particularly helpful as it allows the software development process to remain relevant and targeted in terms of working on developing the most important user stories, but also allows clear communication with the engineers. It's interesting to note that user stories are specific to/originated with the Agile/Scrum methodolgy of software development.
 
 There are **various definitions** of [user stories](https://www.google.com/#q=user+stories+definition) that exist. However, at the simplest level, a user story should be the following: 
 - As a **role**
