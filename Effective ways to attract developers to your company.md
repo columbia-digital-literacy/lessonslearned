@@ -4,4 +4,6 @@ I learnt that the key is to show non-engineering value to programmers by offerin
 
 Here is an article I found on internet discussing how to work with software engineers which might be interesting to read from a business school student perspective. [Link](https://www.kennorton.com/essays/how-to-work-with-software-engineers.html)
 
+This is another piece of article talking about how to hire software developers for your perusal. [Link](https://www.toptal.com/freelance/in-search-of-the-elite-few-finding-and-hiring-the-best-developers-in-the-industry)
+
 ![Meme](http://www.techigniter.in/wp-content/uploads/2015/01/wall.png)
