@@ -22,15 +22,16 @@
   are big in terms of code base but if you want to get started here's a simple project that I contributed to. 
 
 ###Simple way to start using GitHub
-+ Initializing a Repository
-+ Cloning a Repository
-+ Adding a New File
-+ Updating Your Git Configuration
-+ Making the First Commit
-+ Seeing Differences
-+ Viewing Change History
-+ Branching
-+ Using GitHub
++ Step 0: Install git and create a GitHub account
++ Step 1: Create a local git repository 
++ Step 2: Add a new file to the repo
++ Step 3: Add a file to the staging environment
++ Step 4: Create a commit
++ Step 5: Create a new branch
++ Step 6: Create a new repository on GitHub
++ Step 7: Push a branch to GitHub
++ Step 8: Create a Pull Request (PR)
++ Step 9: Merge a PR
 
 [Click link](http://www.stat.cmu.edu/~nicolask/githubinstructions.html) Some tutorials for GitHub
 
