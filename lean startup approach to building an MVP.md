@@ -1,6 +1,6 @@
 #Lean Startup Approach to building a Minimal Viable Product
 
-he idea of using a lean start-up approach to building a minimal viable product (MVP) resonated with me the most. 
+The idea of using a lean start-up approach to building a minimal viable product (MVP) resonated with me the most. 
 
 As with any startup/idea when there may be budget, employee or other constraints it is important to understand or identify the
 specific need you are building for while validating the idea and hypothesis first.
