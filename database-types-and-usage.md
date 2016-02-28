@@ -24,8 +24,10 @@ Document Data - (Ex. MongoDB) - Only stores data, doesn't send success response.
 In recent years there was a high demand for massively distributed databases with high partition tolerance but according to the CAP theorem it is impossible for a distributed system to simultaneously provide consistency, availability and partition tolerance guarantees. 
 A distributed system can satisfy any two of these guarantees at the same time, but not all three. For that reason many NoSQL databases are using what is called eventual consistency to provide both availability and partition tolerance guarantees with a reduced level of data consistency.
 
-Time series databases - http://techcrunch.com/2016/02/19/optimizing-analytics-on-time-series-databases-a-supply-chain-perspective/
+[Link to recent TechCrunch article on time series databases] (http://techcrunch.com/2016/02/19/optimizing-analytics-on-time-series-databases-a-supply-chain-perspective/)
 
 NewSQL is a class of modern relational databases that aims to provide the same scalable performance of NoSQL systems for online transaction processing (read-write) workloads while still using SQL and maintaining the ACID (Atomicity, Consistency, Isolation, and Durability) guarantees of a traditional database system.
 Such databases include ScaleBase, Clustrix, EnterpriseDB, MemSQL, NuoDB and VoltDB.
 These new generation of databases such as NuoDB (SQL + graph) allow for a combination of usage functions.
+
+![alt text](http://i.imgur.com/Er9NXAa.png)
