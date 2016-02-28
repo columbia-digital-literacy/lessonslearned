@@ -26,6 +26,8 @@ I loved the idea of putting user stories on a post-it (forcing you to simplify i
 When we start thinking of user stories in our software, there are many that can come to mind. It's important to prioritize the ones that matter *most* and build those out first. 
 
 **An example** of user stories broken down into 'INVEST" sized chunks: 
+The yellow post-its are the actual user stories/ features that would be worked on by a developer; the release lines separate which features will be ready for which release. The orange and blue post-its provide structure through macro user stories. 
+
 
 ![alt text](http://www.agilebuddha.com/wp-content/uploads/2013/02/IMAG0144.png "User Storyboard")
 
