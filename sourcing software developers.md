@@ -11,6 +11,7 @@ Strategies:
 3. Look at the credits of good websites / software (this is a less common approach nowadays, as credits aren't common to see)
 4. Use services that provide access to freelancers (upwork, rent a coder, elance, guru, etc.)
 5. Go to universities and ask members of relevant clubs or post on jobs/message board at computer science school
+6. Enter hackathons with your business idea
 6. Go to meetups for the relevant technology
   * If taking this approach, be careful not to come across as a 'vulture' who is just looking for engineers
   * Dress casually and ask people if they know others who might be interesting in working on a type of project (for $), rather than asking them to work for you
