@@ -6,7 +6,7 @@
 
 <h1>Introduction</h1>
 
-<p>There are many ways to acquire tech talent—software engineers, programmers and developers.  Understanding your project’s constraints may determine the type of talent you need and how many resources you can allocate to getting the right person for the job.  This cost-benefit analysis may force you to evaluate the advantages of contract versus part-time versus full-time versus agency hiring.  The notes below outline the basic stages of the recruiting and hiring process and offer insights to best practices.</p>
+<p>There are many ways to acquire tech talent -- known as software engineers, programmers, or developers.  Understanding your project’s constraints may determine the type of talent you need and how many resources you can allocate to getting the right person for the job.  This cost-benefit analysis may force you to evaluate the advantages of contract versus part-time versus full-time versus agency hiring.  The notes below outline the basic stages of the recruiting and hiring process and offer insights to best practices.</p>
 
 <p>The four main stages of this process are as follows:</p>
 <li>Sourcing</li>
