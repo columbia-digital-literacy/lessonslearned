@@ -20,3 +20,5 @@
 * Find ways to inspire/engage your team members - knowledge workers are incentivized not just through monetary compensation
 
 ![Pragmatic Programmer](https://upload.wikimedia.org/wikipedia/en/8/8f/The_pragmatic_programmer.jpg)
+
+For more information see [Pragmatic Programmer Info] (https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
