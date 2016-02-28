@@ -19,4 +19,4 @@
 * Monolinarity
 * Find ways to inspire/engage your team members - knowledge workers are incentivized not just through monetary compensation
 
-![CSS Style sheet](/css_cascading_style_sheet.jpg)
+![CSS Style sheet](/Prag.Programmer.jpg)
