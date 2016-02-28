@@ -1,4 +1,4 @@
-#testing
+#How to think through your mobile app options
 *"All apps are not made equal"*
 
 An important thing to keep in mind when leading or managing a digital project is which sort of mobile app approach would work best for your team. 
@@ -18,7 +18,9 @@ A recommended platform is Adobe's [PhoneGap](http://phonegap.com/). For example,
 For those that need to incorporate more advanced features, a cross-platform solution may work best. Although more expensive than a hybrid solution, using a cross-platofrm approach sitll allows you to be quick to market while retaining some more hardware integration pssibilities. This is a cost-effective approach when you need to launch on multiple platforms, as it allows you to maintain a single codebase. However, there will be some lagtime for new hardware features and slightly less UI flexibility down the road. 
 Recommended platforms are [Appcelerator](http://www.appcelerator.com/) or Xamarin. 
 
-Finally, projects which depend on performance and hardware integration for success may likely be better off going for the native approach. This allows you to take full adventage of the hardware and allows for more immersive user experiences. Of course, this approach is the most costly and has the longest time to market. A separate codebase will be required for each OS you choose to launch on. 
+Finally, projects which depend on performance and hardware integration for success may likely be better off going for the native approach. This allows you to take full adventage of the hardware and allows for more immersive user experiences. Of course, this approach is the most costly and has the longest time to market. A separate codebase will be required for each OS you choose to launch on. The most popular tools for native apps are Swift and Java.
+
+Please note, this walkthrough assumes you do indeed require an app. Many folks jump straight to the app solution when a mobile website would probably be a better choice. 
 
 
 
