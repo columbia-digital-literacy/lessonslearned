@@ -18,3 +18,5 @@
 * Test your software for bugs frequently and once you identify one create automatic tests to check for them in the future. 
 * Monolinarity
 * Find ways to inspire/engage your team members - knowledge workers are incentivized not just through monetary compensation
+
+![CSS Style sheet](/images/css_cascading_style_sheet.jpg)
