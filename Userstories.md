@@ -29,4 +29,5 @@ When we start thinking of user stories in our software, there are many that can 
 
 ![alt text](http://www.agilebuddha.com/wp-content/uploads/2013/02/IMAG0144.png "User Storyboard")
 
+Resource to consider reading more about this: Specification by Example by Gojo Adzic.
 
