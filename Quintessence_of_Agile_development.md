@@ -21,3 +21,4 @@ Simplicity—the art of maximizing the amount of work not done—is essential
 Best architectures, requirements, and designs emerge from self-organizing teams
 Regularly, the team reflects on how to become more effective, and adjusts accordingly
 
+
