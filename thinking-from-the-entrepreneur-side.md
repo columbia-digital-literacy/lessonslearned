@@ -1,4 +1,4 @@
-This class is truly valuable to me. Before business school, I worked at Apple (http://www.apple.com) in Silicon Valley, where my major responsibility is to develop iOS operating system. We have generated many APIs for the developers, but we miss the opportunities of seeing how application developers are using these APIs, and how they work with GitHub.  
+This class is truly valuable to me. Before business school, I worked at Apple (http://www.apple.com) in Silicon Valley, where my major responsibility is to develop iOS operating system. We developed the video processing component, so the external developers such as Netflix or Youtube can run smoothly on our mobile devices. We have generated many APIs for the developers, but we miss the opportunities of seeing how application developers are using these APIs, and how they work with GitHub.  
 
 Through the Digital Literacy classes, I got a much deeper understanding of how engineers in a start-up collaborate on their wonderful websites or applications. 
 
