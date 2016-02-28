@@ -14,4 +14,6 @@ should ask revolves around other commitments the candidate may have. Depending o
 general rule is that a programmer's commitments should not exceed 60 hours per week total. You should also ask a series of questions:
 "What X do you use? What do you compare it with? Why select X?" In this case, "X" should be a Version Control System, Unit Test Tool, and
 Framework. By asking these three questions with regard to these three components, you can uncover a lot of information about a programmer
-and how knowledgeable he/she is.
+and how knowledgeable he/she is. Finally, another way to filter programmers is to get recommendations from current developers.
+
+http://www.developer.com/mgmt/three-types-of-interview-questions-software-developers-should-expect.html
