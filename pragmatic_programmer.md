@@ -10,6 +10,7 @@
 * Code should not be perfect - aim for "good enough"
 * Launch quickly and iterate constantly
 * Build to be flexible
+* Think about testing code before you even begin to write a line
 * DRY = Don't Repeat Yourself
 
 ## Keys to Managing Software Development:
