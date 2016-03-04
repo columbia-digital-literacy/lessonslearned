@@ -1,0 +1,24 @@
+When it comes to creating a website, there are key digital tools and infrastructure that are important to keep in mind.
+
+First, it is important to understand the differences between front end and back end tools. Front end tools support what you see on the page -- style, links, etc. Back end tools support the server side of the website, a database, or even an application.
+
+Front end languages include HTML, CSS, and JavaScript.
+- HTML, or hypertext markeup language, is the core language of web development. It is used to label the content of a web page.
+- CSS, or cascading style sheets, are used to enhance the visual style of a website.
+- JavaScript enables a web developer to create interactive, animated imagery and tools on a website.
+
+Backend languages include Ruby, Python, C++, and PHP. Frameworks typically make the languages easier to use. 
+
+There are also text editors that can be used for writing HTML that make things easier (autopopulates tags, etc.). Sublime and atom are two of these.
+
+On front end languages, using open standards can ease development, saving time and money.
+
+Link to one school that teaches how to use these tools: www.nobledesktop.com 
+
+Inline-style: 
+![alt text](http://www.imritz.com/wp-content/uploads/2015/10/css_cascading_style_sheet.jpg "CSS")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: http://www.imritz.com/wp-content/uploads/2015/10/css_cascading_style_sheet.jpg "CSS"
